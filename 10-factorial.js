@@ -1,4 +1,5 @@
-let factorial = (n) => {
+
+function factorial(n) {
   if (isNaN(n) || n === 0) {
     return 1;
   }
