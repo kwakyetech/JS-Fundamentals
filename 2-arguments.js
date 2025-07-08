@@ -1,9 +1,9 @@
 let x = 10;
 let y = 20;
 if (x > y) {
-  console.log("No argument");
+    console.log("Arguments found");
 } else if (x < y) {
-  console.log("Argument found");
+    console.log("Argument found");
 } else {
-  console.log("Arguments found");
+    console.log("No argument");
 }
